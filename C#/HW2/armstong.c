@@ -3,7 +3,7 @@ int main()
 {
     
     int sayi,n,bas,top=0;
-    printf("bir sayý giriniz lutfen");
+    printf("bir sayÃ½ giriniz lutfen");
     scanf("%d",&sayi);
     n=sayi;
     while(sayi>0)
