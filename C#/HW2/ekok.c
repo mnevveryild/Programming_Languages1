@@ -2,7 +2,7 @@
 int main ()
 {
     int sayi1,sayi2,ekok=1,i;
-    printf("iki adet sayı giriniz lutfen");
+    printf("iki adet sayÃ½ giriniz lutfen");
     scanf("%d%d",&sayi1,&sayi2);
     for(i=2;i<=sayi1 || i<=sayi2;i++)
     {
