@@ -2,7 +2,7 @@
 int main()
 {
     int kenar1,kenar2,alan,cevre;
-    printf("dikdortgenin kenar uzunluklarýn giriniz lutfen");
+    printf("dikdortgenin kenar uzunluklarÄ±n giriniz lutfen");
     scanf("%d",&kenar1);
     scanf("%d",&kenar2);
     alan=kenar1*kenar2,
